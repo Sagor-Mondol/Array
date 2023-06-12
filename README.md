@@ -1,1 +1,1 @@
-# Array
+# JAVASCRIPT CLASS
